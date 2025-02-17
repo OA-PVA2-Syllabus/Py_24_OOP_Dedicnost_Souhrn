@@ -1,5 +1,5 @@
 # PVA2 - Programování a vývoj aplikací
-## Lekce 23: OOP - Dědičnost - souhrn
+## Lekce 24: OOP - Dědičnost - souhrn
 
 ## Obsah
 
